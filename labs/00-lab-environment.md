@@ -2,7 +2,7 @@
 
 ## Classroom Setting
 
-These labs are designed for delivery in a classroom setting with the **Azure Global Blackbelt Team.** We typically provide an Azure subscription and a Linux VM (jumpbox) for attendees to complete the labs.
+These labs are designed for delivery in a classroom setting with the **Azure Global Blackbelt Team.** We typically provide an Azure subscription for attendees to complete the labs.
 
 ### Getting Registered
 
@@ -21,9 +21,7 @@ These labs are designed for delivery in a classroom setting with the **Azure Glo
 
 ### Setup Environment
 
-* The first two labs will require you to RDP into a Linux jumpbox in the Azure subscription created for you.
-    * Ensure you have a proper RDP client on your PC.
-    * On the Mac, use Remote Desktop Client in the App Store.
+* The labs can be completed using cloud shell, iTerm or WSL.
 * Setup Azure Cloud Shell: 
 
     1. Browse to http://portal.azure.com
@@ -57,5 +55,8 @@ It is possible to use your own machine outside of the classroom. You will need t
 * Visual Studio Code
 * Helm
 * Kubernetes CLI (kubectl)
-* MongoDB (only lab #1 requires this)
+* MongoDB
 * GitHub account and git tools
+
+## Back to Lab list
+* [LABS](../README.md)
